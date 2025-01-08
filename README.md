@@ -19,14 +19,6 @@ Optimizes advertising platform selection for maximum reach.
 Offers interactive visualizations for better insights.
 Promotes data-driven decision-making in sales strategies.
 
-# Getting Started
-
-Clone the repository: git clone https://github.com/yourusername/sales-prediction.git
-Install required packages: pip install -r requirements.txt
-Explore Jupyter notebooks for data preprocessing, modeling, and analysis.
-Customize model parameters and experiment with different marketing strategies.
-Gain valuable insights from visualizations to refine sales predictions.
-
 # Contributions
 
 Contributions are encouraged! Feel free to fork the repository, make improvements, and create pull requests to contribute to this valuable project.
